@@ -42,7 +42,7 @@ This maps directly to:
 
 ## 🖼️ Model Context Protocol (MCP) Flow
 
-![MCP Flow](images/mcp_architecture_flow.png)
+![MCP Flow](images/mcp_architecture_flow.PNG)
 
 **Flow explained step-by-step:**
 1. User asks a question
